@@ -20,11 +20,11 @@ public class Customer {
        
    }
    
-   void buyFood(){
-       
+   public void buyFood(){
+     
    }
    
-   void cancelBuy(){
+   public void cancelBuy(){
        
    }
    
